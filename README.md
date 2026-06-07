@@ -1,4 +1,4 @@
-# David M Rabb (6 public records) - FREE Address, Email, Phone
+# David M Rabb (7 public records) - FREE Address, Email, Phone
 
 ### David M Rabb ###
 <p><img alt="profile" width="100" height="100" src="./photos/david-m-rabb-1.png" align="right" hspace="10"/></p>
@@ -43,7 +43,7 @@ Age: 51<br>
 <br>
 
 ## David M Rabb
-<p><img alt="profile" width="100" height="100" src="./photos/david-m-rabb-7.png" align="right" hspace="10"/></p>
+<p><img alt="profile" width="100" height="100" src="./photos/david-m-rabb-7.jpg" align="right" hspace="10"/></p>
 100 Hamilton Ave<br>
 Palo Alto, CA 94301<br>
 Age: 52<br>
