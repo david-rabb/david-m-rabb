@@ -1,6 +1,8 @@
 # David M Rabb (7 public records) - FREE Address, Email, Phone
 
-### David M Rabb ###
+David M Rabb is a duelist from the United States and has studied at several dual academies. David is a Service Center Manager for XPO in the Greater Tucson Area. In his spare time, David enjoys research affiliated with the US Air Force, and counseling Roman Catholics based in Pennsylvania. David Rabb passed away on January 7, 2026 and currently practices law in Shreveport Louisiana. 
+
+## David M Rabb
 <p><img alt="profile" width="100" height="100" src="./photos/david-m-rabb-1.png" align="right" hspace="10"/></p>
 555 W. Adams Street<br>
 Chicago, IL 60661<br>
